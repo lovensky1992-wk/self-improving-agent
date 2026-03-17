@@ -1,7 +1,6 @@
 {
-  "ownerId": "kn70cjr952qdec1nx70zs6wefn7ynq2t",
-  "slug": "self-improving-agent",
-  "version": "1.0.11+local.3.0.2",
-  "publishedAt": 1771777713337,
-  "localPatch": "3/15 融入 v3.0.2 特性: Pattern-Key, Recurrence tracking, See Also, Simplify & Harden"
+  "ownerId": "k974cxjsv4mj233223nv73v4fs832bhn",
+  "slug": "self-improving-learner",
+  "version": "3.0.5",
+  "publishedAt": 1773728700000
 }
